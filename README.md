@@ -13,3 +13,5 @@ Careful explanation of the code and how it functions:
 7. That stateless component class receives the state and displays it. (Sibling.js, lines 5-10)
 8. An instance of the stateful component class is rendered. One stateless child component displays the state, and a different stateless child component displays a way to change the (Parent.js, lines 23-26)
 
+
+![Screen Shot 2019-06-04 at 6 37 51 PM](https://user-images.githubusercontent.com/32972406/58924393-8a312a00-86f8-11e9-8a0c-f277ca83d1f2.png)
