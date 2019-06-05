@@ -2,7 +2,7 @@
 
 In this excersice I master how stateless components inherit from stateful components.
 
-Careful explanaition of the code and how it functions:
+Careful explanation of the code and how it functions:
 
 1. A stateful component class defines a function that calls this.setState. (Parent.js, lines 15-19)
 2. The stateful component passes that function down to a stateless component. (Parent.js, line 24)
