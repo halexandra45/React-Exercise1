@@ -12,4 +12,4 @@ Careful explanation of the code and how it functions:
 6. The stateful component class passes down its state, distinct from the ability to change its state, to a different stateless component. (Parent.js, line 25)
 7. That stateless component class receives the state and displays it. (Sibling.js, lines 5-10)
 8. An instance of the stateful component class is rendered. One stateless child component displays the state, and a different stateless child component displays a way to change the (Parent.js, lines 23-26)
-9. This pattern occurs in React all the time! The more that you see it, the more that its elegance will become clear.
+
